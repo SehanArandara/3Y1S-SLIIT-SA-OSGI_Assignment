@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;servicepublisher.Activator&apos; to &apos;ServiceActivator&apos;&#x0D;&#x0A;- Original project: &apos;ServicePublisher&apos;&#x0D;&#x0A;- Original element: &apos;servicepublisher.Activator&apos;&#x0D;&#x0A;- Renamed element: &apos;servicepublisher.ServiceActivator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Activator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;servicepublisher{Activator.java[Activator" matchStrategy="1" name="ServiceActivator" qualified="false" references="true" similarDeclarations="false" stamp="1710066671299" textual="false" version="1.0"/>
+</session>
